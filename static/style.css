@@ -95,6 +95,10 @@ body
     display: flex;
     margin: 5px;
 }
+.card img
+{
+    margin-right: 5px;
+}
 .cimg
 {
     width: 100px;
